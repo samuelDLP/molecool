@@ -7,6 +7,8 @@ molecool
 
 A Python package for analyzing and visualizing xyz files. This repository is currently under development.
 
+This code was developmed at the University of Notre Dame. 
+
 ### Copyright
 
 Copyright (c) 2020, Samuel De La Paz
