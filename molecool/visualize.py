@@ -5,7 +5,7 @@ Visualization
 import matplotlib as plt
 import numpy as np
 
-from mpl_toolkits.mplot3d import Axes3D 
+from mpl_toolkits.mplot3d import Axes3D # noqa: 4801
 
 # local import (from current directory), assumes python
 from .atom_data import atom_colors
